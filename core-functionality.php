@@ -5,7 +5,7 @@ namespace CoreFunctionality;
 /**
  * Plugin Name: Core Functionality
  * Description: This contains all your site's core functionality so that it is theme independent.
- * Version: 0.1.0
+ * Version: 1.0.0
  * Author: Fabian Todt
  *
  */

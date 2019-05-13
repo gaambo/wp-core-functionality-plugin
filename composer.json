@@ -1,5 +1,6 @@
 {
   "name": "gaambo/wp-core-functionality-plugin",
+  "version": "1.0.0",
   "type": "wordpress-plugin",
   "license": "MIT",
   "description": "A must-use Plugin for your WordPress website projects to contain all site-specific functionality. This way it is theme independent and always enabled.",
