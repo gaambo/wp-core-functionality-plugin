@@ -12,14 +12,46 @@ function registerRequiredPlugins()
 {
 
     $plugins = [
-        // array(
-        //     'name'         => 'Advanced Custom Fields Pro', // The plugin name.
-        //     'slug'         => 'advanced-custom-fields-pro', // The plugin slug (typically the folder name).
-        //     'source'       => WP_PLUGIN_DIR . '/advanced-custom-fields-pro', // The plugin source.
-        //     'required'     => true, // If false, the plugin is only 'recommended' instead of required.
-        //     'force_activation'   => true, // If true, plugin is activated upon theme activation and cannot be deactivated until theme switch.
-        //     // 'external_url' => 'http://www.advancedcustomfields.com/pro/', // If set, overrides default API URL and points to an external URL.
-        // ),
+        [
+            'name'         => 'Advanced Custom Fields Pro', // The plugin name.
+            'slug'         => 'advanced-custom-fields-pro', // The plugin slug (typically the folder name).
+            'source'       => 'https://www.advancedcustomfields.com/my-account/', // The plugin source.
+            'required'     => true, // If false, the plugin is only 'recommended' instead of required.
+            'force_activation'   => true, // If true, plugin is activated upon theme activation and cannot be deactivated until theme switch.
+            // 'external_url' => 'http://www.advancedcustomfields.com/pro/', // If set, overrides default API URL and points to an external URL.
+        ],
+        [
+            'name'         => 'WPML', // The plugin name.
+            'slug'         => 'sitepress-multilingual-cms', // The plugin slug (typically the folder name).
+            'source'       => 'https://wpml.org/account', // The plugin source.
+            'required'     => false, // If false, the plugin is only 'recommended' instead of required.
+            'force_activation'   => false, // If true, plugin is activated upon theme activation and cannot be deactivated until theme switch.
+        ],
+        [
+            'name'         => 'WPML String Translation', // The plugin name.
+            'slug'         => 'wpml-string-translation', // The plugin slug (typically the folder name).
+            'source'       => 'https://wpml.org/account', // The plugin source.
+            'required'     => false, // If false, the plugin is only 'recommended' instead of required.
+            'force_activation'   => false, // If true, plugin is activated upon theme activation and cannot be deactivated until theme switch.
+        ],
+        [
+            'name'         => 'The SEO Framework',
+            'slug'         => 'autodescription',
+            'required'     => true,
+            'force_activation'      => true
+        ],
+        [
+            'name'         => 'The SEO Framework Extensions',
+            'slug'         => 'the-seo-framework-extension-manager',
+            'required'     => true,
+            'force_activation'      => true
+        ],
+        [
+            'name'         => 'Disable Comments',
+            'slug'         => 'disable-comments',
+            'required'     => false,
+            'force_activation'      => false
+        ]
     ];
 
     $config = [

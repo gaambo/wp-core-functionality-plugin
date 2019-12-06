@@ -1,0 +1,705 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Core Functionality\n"
+"POT-Creation-Date: 2019-12-06 08:38+0100\n"
+"PO-Revision-Date: 2019-12-06 08:39+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de_AT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: vendor\n"
+
+#: includes/requirements.php:69 includes/tgm-plugin-activation.php:340
+msgid "Install Required Plugins"
+msgstr "Benötigte Plugins installieren"
+
+#: includes/requirements.php:70
+msgid "Required Plugins"
+msgstr "Benötigte Plugins"
+
+#: includes/requirements.php:72 includes/tgm-plugin-activation.php:343
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Installiere Plugins: %s"
+
+#: includes/requirements.php:74 includes/tgm-plugin-activation.php:345
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr "Aktualisiere Plugin: %s"
+
+#: includes/requirements.php:75 includes/tgm-plugin-activation.php:346
+msgid "Something went wrong with the plugin API."
+msgstr "Es ist ein Fehler in der plugin API aufgetreten."
+
+#: includes/requirements.php:127 includes/tgm-plugin-activation.php:398
+msgid "Return to Required Plugins Installer"
+msgstr "Zurück zum Installieren benötigter Plugins"
+
+#: includes/requirements.php:128 includes/tgm-plugin-activation.php:400
+#: includes/tgm-plugin-activation.php:3338
+msgid "Plugin activated successfully."
+msgstr "Plugin erfolgreich aktiviert."
+
+#: includes/requirements.php:129 includes/tgm-plugin-activation.php:401
+msgid "The following plugin was activated successfully:"
+msgstr "Das folgende Plugin wurde erfolgreich aktiviert:"
+
+#: includes/requirements.php:131 includes/tgm-plugin-activation.php:403
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Keine Aktion durchgeführt. Plugin %1$s war bereits aktiviert."
+
+#: includes/requirements.php:133 includes/tgm-plugin-activation.php:405
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"Plugin nicht aktiviert. Eine höhere Version von %s wird benötigt. Bitte "
+"aktualisiere das Plugin."
+
+#: includes/requirements.php:135 includes/tgm-plugin-activation.php:407
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Alle Plugins wurden installiert und aktiviert. %1$s"
+
+#: includes/requirements.php:136 includes/tgm-plugin-activation.php:408
+msgid "Dismiss this notice"
+msgstr "Meldung verbergen"
+
+#: includes/requirements.php:137 includes/tgm-plugin-activation.php:409
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+"Es gibt ein oder mehrere erforderliche oder empfohlene Plugins die "
+"installiert, aktualisiert oder aktiviert werden sollten."
+
+#: includes/requirements.php:138 includes/tgm-plugin-activation.php:410
+msgid "Please contact the administrator of this site for help."
+msgstr "Bitte kontaktiere den Administrator für Hilfe."
+
+#: includes/settings.php:8 includes/settings.php:9
+msgid "Custom Settings"
+msgstr "Spezielle Einstellungen"
+
+#: includes/settings.php:17
+msgid "General Settings"
+msgstr "Allgemeine Einstellungen"
+
+#: includes/settings.php:18
+msgid "General"
+msgstr "Allgemein"
+
+#: includes/tgm-plugin-activation.php:341
+msgid "Install Plugins"
+msgstr "Plugins installieren"
+
+#: includes/tgm-plugin-activation.php:399
+msgid "Return to the Dashboard"
+msgstr "Zurück zum Dashboard"
+
+#: includes/tgm-plugin-activation.php:2130
+#, php-format
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: includes/tgm-plugin-activation.php:2431
+msgid "Required"
+msgstr "Erforderlich"
+
+#: includes/tgm-plugin-activation.php:2434
+msgid "Recommended"
+msgstr "Empfohlen"
+
+#: includes/tgm-plugin-activation.php:2451
+msgid "WordPress Repository"
+msgstr "WordPress Repository"
+
+#: includes/tgm-plugin-activation.php:2454
+msgid "External Source"
+msgstr "Externe Quelle"
+
+#: includes/tgm-plugin-activation.php:2457
+msgid "Pre-Packaged"
+msgstr "Pre-Packaged"
+
+#: includes/tgm-plugin-activation.php:2475
+msgid "Not Installed"
+msgstr "Nicht installiert"
+
+#: includes/tgm-plugin-activation.php:2479
+msgid "Installed But Not Activated"
+msgstr "Installiert aber nicht aktiviert"
+
+#: includes/tgm-plugin-activation.php:2481
+msgid "Active"
+msgstr "Aktiv"
+
+#: includes/tgm-plugin-activation.php:2487
+msgid "Required Update not Available"
+msgstr "Erforderliches Update nicht verfügbar"
+
+#: includes/tgm-plugin-activation.php:2489
+msgid "Requires Update"
+msgstr "Erfordert Update"
+
+#: includes/tgm-plugin-activation.php:2491
+msgid "Update recommended"
+msgstr "Update empfohlen"
+
+#: includes/tgm-plugin-activation.php:2653
+msgid "Installed version:"
+msgstr "Installierte Version:"
+
+#: includes/tgm-plugin-activation.php:2661
+msgid "Minimum required version:"
+msgstr "Mindestens erforderliche Version:"
+
+#: includes/tgm-plugin-activation.php:2673
+msgid "Available version:"
+msgstr "Verfügbare Version:"
+
+#: includes/tgm-plugin-activation.php:2712
+msgid "Plugin"
+msgstr "Plugin"
+
+#: includes/tgm-plugin-activation.php:2713
+msgid "Source"
+msgstr "Quelle"
+
+#: includes/tgm-plugin-activation.php:2714
+msgid "Type"
+msgstr "Typ"
+
+#: includes/tgm-plugin-activation.php:2718
+msgid "Version"
+msgstr "Version"
+
+#: includes/tgm-plugin-activation.php:2719
+msgid "Status"
+msgstr "Status"
+
+#: includes/tgm-plugin-activation.php:2771
+#, php-format
+msgid "Install %2$s"
+msgstr "Installiere %2$s"
+
+#: includes/tgm-plugin-activation.php:2776
+#, php-format
+msgid "Update %2$s"
+msgstr "Aktualisiere %2$s"
+
+#: includes/tgm-plugin-activation.php:2782
+#, php-format
+msgid "Activate %2$s"
+msgstr "Aktiviere %2$s"
+
+#: includes/tgm-plugin-activation.php:2889
+msgid "Install"
+msgstr "Installieren"
+
+#: includes/tgm-plugin-activation.php:2895
+msgid "Update"
+msgstr "Aktualisieren"
+
+#: includes/tgm-plugin-activation.php:2898
+msgid "Activate"
+msgstr "Aktivieren"
+
+#: includes/tgm-plugin-activation.php:2929
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+"Es wurden keine Plugins zum Installieren ausgewählt. Keine Aktion ausgeführt."
+
+#: includes/tgm-plugin-activation.php:2931
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+"Es wurden keine Plugins zum Aktualisieren ausgewählt. Keine Aktion "
+"ausgeführt."
+
+#: includes/tgm-plugin-activation.php:2972
+msgid "No plugins are available to be installed at this time."
+msgstr "Keine Plugins zum Installieren verfügbar."
+
+#: includes/tgm-plugin-activation.php:2974
+msgid "No plugins are available to be updated at this time."
+msgstr "Keine Plugins zum Aktualisieren verfügbar."
+
+#: includes/tgm-plugin-activation.php:3337
+msgid "Plugin activation failed."
+msgstr "Plugin Aktivierung fehlgeschlagen."
+
+#: includes/tgm-plugin-activation.php:3684
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Aktualisiere Plugin %1$s (%2$d/%3$d)"
+
+#: includes/tgm-plugin-activation.php:3687
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+"Bei der Installation von %1$s ist ein Fehler aufgetreten: <strong>%2$s</"
+"strong>."
+
+#: includes/tgm-plugin-activation.php:3689
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "Die Installation von %1$s ist fehlgeschlagen."
+
+#: includes/tgm-plugin-activation.php:3693
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Der Installations- und Aktivierungsprozess wird gestartet. Dieser Prozess "
+"nimmt eventuell etwas Zeit in Anspruch, also bitte hab etwas Geduld."
+
+#: includes/tgm-plugin-activation.php:3695
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s erfolgreich installiert und aktiviert."
+
+#: includes/tgm-plugin-activation.php:3696
+msgid "All installations and activations have been completed."
+msgstr "Alle Installationen und Aktivierungen wurden abgeschlossen."
+
+#: includes/tgm-plugin-activation.php:3698
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Installiere und aktiviere Plugin %1$s (%2$d/%3$d)"
+
+#: includes/tgm-plugin-activation.php:3701
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Der Installationsprozess wird gestartet. Dieser Prozess nimmt eventuell "
+"etwas Zeit in Anspruch, also bitte hab etwas Geduld."
+
+#: includes/tgm-plugin-activation.php:3704
+msgid "All installations have been completed."
+msgstr "Alle Installationen wurden abgeschlossen."
+
+#: includes/tgm-plugin-activation.php:3706
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Installiere Plugin %1$s (%2$d/%3$d)"
+
+#~ msgid "Reusable Blocks"
+#~ msgstr "Wiederverwendbare Blöcke"
+
+#~ msgid "FAQs"
+#~ msgstr "FAQs"
+
+#~ msgid "FAQ"
+#~ msgstr "FAQ"
+
+#~ msgid "FAQ Archives"
+#~ msgstr "FAQ Archive"
+
+#~ msgid "FAQ Attributes"
+#~ msgstr "FAQ Attribute"
+
+#~ msgid "Parent Item:"
+#~ msgstr "Übergeordnetes Element:"
+
+#~ msgid "All FAQs"
+#~ msgstr "Alle FAQS"
+
+#~ msgid "Add New FAQ"
+#~ msgstr "Neue FAQ hinzufügen"
+
+#~ msgid "Add New"
+#~ msgstr "Neue hinzufügen"
+
+#~ msgid "New FAQ"
+#~ msgstr "Neue FAQ"
+
+#~ msgid "Edit FAQ"
+#~ msgstr "FAQ bearbeiten"
+
+#~ msgid "Update FAQ"
+#~ msgstr "FAQ aktualisieren"
+
+#~ msgid "View FAQ"
+#~ msgstr "FAQ ansehen"
+
+#~ msgid "View FAQs"
+#~ msgstr "FAQs ansehen"
+
+#~ msgid "Search FAQ"
+#~ msgstr "FAQ suchen"
+
+#~ msgid "Not found"
+#~ msgstr "Nichts gefunden"
+
+#~ msgid "Not found in Trash"
+#~ msgstr "Im Papierkorb nichts gefunden"
+
+#~ msgid "Insert into FAQ"
+#~ msgstr "In FAQ einfügen"
+
+#~ msgid "Uploaded to this FAQ"
+#~ msgstr "Zu FAQ hochladen"
+
+#~ msgid "FAQs list"
+#~ msgstr "FAQ Liste"
+
+#~ msgid "FAQs list navigation"
+#~ msgstr "FAQ Liste Navigation"
+
+#~ msgid "Filter FAQs list"
+#~ msgstr "FAQ Liste filtern"
+
+#~ msgid "FAQ Infos"
+#~ msgstr "FAQ Infos"
+
+#~ msgid "Subline/Location"
+#~ msgstr "Subline / Location"
+
+#~ msgid "Features"
+#~ msgstr "Features"
+
+#~ msgid "Feature"
+#~ msgstr "Feature"
+
+#~ msgid "Feature Archives"
+#~ msgstr "Feature Archive"
+
+#~ msgid "Feature Attributes"
+#~ msgstr "Feature Attribute"
+
+#~ msgid "All Features"
+#~ msgstr "Alle Features"
+
+#~ msgid "Add New Feature"
+#~ msgstr "Neues Feature hinzufügen"
+
+#~ msgid "New Feature"
+#~ msgstr "Neues Feature"
+
+#~ msgid "Edit Feature"
+#~ msgstr "Feature bearbeiten"
+
+#~ msgid "Update Feature"
+#~ msgstr "Feature aktualisieren"
+
+#~ msgid "View Feature"
+#~ msgstr "Feature ansehen"
+
+#~ msgid "View Features"
+#~ msgstr "Features ansehen"
+
+#~ msgid "Search Feature"
+#~ msgstr "Feature suchen"
+
+#~ msgid "Insert into Feature"
+#~ msgstr "In Feature einfügen"
+
+#~ msgid "Uploaded to this Feature"
+#~ msgstr "Zu Feature hochladen"
+
+#~ msgid "Features list"
+#~ msgstr "Feature Liste"
+
+#~ msgid "Features list navigation"
+#~ msgstr "Feature Liste Navigation"
+
+#~ msgid "Filter features list"
+#~ msgstr "Feature Liste filtern"
+
+#~ msgid "Product Features"
+#~ msgstr "Produkt Features"
+
+#~ msgid "Feature Infos"
+#~ msgstr "Feature Infos"
+
+#~ msgid "Icon"
+#~ msgstr "Icon"
+
+#, php-format
+#~ msgid "Should be %s wide - SVGs are recommended"
+#~ msgstr "Sollte %s breit sein - SVGs werden empfohlen"
+
+#~ msgid "Link"
+#~ msgstr "Link"
+
+#~ msgid "Description"
+#~ msgstr "Beschreibung"
+
+#, php-format
+#~ msgid "This field must have at least %s characters"
+#~ msgstr "Das Feld muss mindestens %s Zeichen lang sein"
+
+#~ msgid "Jobs"
+#~ msgstr "Jobs"
+
+#~ msgid "Job"
+#~ msgstr "Job"
+
+#~ msgid "Job Archives"
+#~ msgstr "Job Archive"
+
+#~ msgid "Job Attributes"
+#~ msgstr "Job Attribute"
+
+#~ msgid "All Jobs"
+#~ msgstr "Alle Jobs"
+
+#~ msgid "Add New Job"
+#~ msgstr "Neuen Job hinzufügen"
+
+#~ msgid "New Job"
+#~ msgstr "Neuer Job"
+
+#~ msgid "Edit Job"
+#~ msgstr "Job bearbeiten"
+
+#~ msgid "Update Job"
+#~ msgstr "Job aktualisieren"
+
+#~ msgid "View Job"
+#~ msgstr "Job ansehen"
+
+#~ msgid "View Jobs"
+#~ msgstr "Jobs ansehen"
+
+#~ msgid "Search Job"
+#~ msgstr "Job suchen"
+
+#~ msgid "Insert into Job"
+#~ msgstr "In Job einfügen"
+
+#~ msgid "Uploaded to this Job"
+#~ msgstr "Zu Job hochladen"
+
+#~ msgid "Jobs list"
+#~ msgstr "Job Liste"
+
+#~ msgid "Jobs list navigation"
+#~ msgstr "Job Liste Navigation"
+
+#~ msgid "Filter Jobs list"
+#~ msgstr "Job Liste filtern"
+
+#~ msgid "Job Infos"
+#~ msgstr "Job Infos"
+
+#~ msgid "People"
+#~ msgstr "Personen"
+
+#~ msgid "Person"
+#~ msgstr "Person"
+
+#~ msgid "People Archives"
+#~ msgstr "Personen Archive"
+
+#~ msgid "Person Attributes"
+#~ msgstr "Personen Attribute"
+
+#~ msgid "All People"
+#~ msgstr "Alle Personen"
+
+#~ msgid "Add New Person"
+#~ msgstr "Neue Person hinzufügen"
+
+#~ msgid "New Person"
+#~ msgstr "Neue Person"
+
+#~ msgid "Edit Person"
+#~ msgstr "Person bearbeiten"
+
+#~ msgid "Update Person"
+#~ msgstr "Person aktualisieren"
+
+#~ msgid "View Person"
+#~ msgstr "Person ansehen"
+
+#~ msgid "View People"
+#~ msgstr "Personen ansehen"
+
+#~ msgid "Search Person"
+#~ msgstr "Person suchen"
+
+#~ msgid "Insert into Person"
+#~ msgstr "In Person einfügen"
+
+#~ msgid "Uploaded to this Person"
+#~ msgstr "Zu Person hochladen"
+
+#~ msgid "People list"
+#~ msgstr "Personen Liste"
+
+#~ msgid "People list navigation"
+#~ msgstr "Personen Liste Navigation"
+
+#~ msgid "Filter people list"
+#~ msgstr "Personen Liste filtern"
+
+#~ msgid "Intact People"
+#~ msgstr "Intact Personen"
+
+#~ msgid "Person Infos"
+#~ msgstr "Personen Infos"
+
+#~ msgid "Subline/Position"
+#~ msgstr "Subline/Position"
+
+#~ msgid "Image"
+#~ msgstr "Bild"
+
+#~ msgid "Should be 180px wide - can be cropped on mobile"
+#~ msgstr "Sollte %s breit sein - wird mobil evt. zugeschnitten"
+
+#~ msgid "Email Address"
+#~ msgstr "E-Mail Adresse"
+
+#~ msgid "Phone"
+#~ msgstr "Telefonnummer"
+
+#~ msgid "Page not found"
+#~ msgstr "Seite nicht gefunden"
+
+#~ msgid "Components"
+#~ msgstr "Komponenten"
+
+#~ msgid "Special Pages"
+#~ msgstr "Spezielle SEiten"
+
+#~ msgid "404 Not-Found Page"
+#~ msgstr "404 / Nicht-gefunden Seite"
+
+#~ msgid "Stories"
+#~ msgstr "Stories"
+
+#~ msgid "Story"
+#~ msgstr "Story"
+
+#~ msgid "Stories Archives"
+#~ msgstr "Stories Archive"
+
+#~ msgid "Story Attributes"
+#~ msgstr "Story Attribute"
+
+#~ msgid "All Stories"
+#~ msgstr "Alle Stories"
+
+#~ msgid "Add New Story"
+#~ msgstr "Neue Story hinzufügen"
+
+#~ msgid "New Story"
+#~ msgstr "Neue Story"
+
+#~ msgid "Edit Story"
+#~ msgstr "Story bearbeiten"
+
+#~ msgid "Update Story"
+#~ msgstr "Story aktualisieren"
+
+#~ msgid "View Story"
+#~ msgstr "Story ansehen"
+
+#~ msgid "View Stories"
+#~ msgstr "Stories ansehen"
+
+#~ msgid "Search Story"
+#~ msgstr "Story suchen"
+
+#~ msgid "Insert into Story"
+#~ msgstr "In Story einfügen"
+
+#~ msgid "Uploaded to this Story"
+#~ msgstr "Zu Story hochladen"
+
+#~ msgid "Stories list"
+#~ msgstr "Stories Liste"
+
+#~ msgid "Stories list navigation"
+#~ msgstr "Stories Liste Navigation"
+
+#~ msgid "Filter stories list"
+#~ msgstr "Filter Stories Liste"
+
+#~ msgid "Intact Stories (cases, success stories)"
+#~ msgstr "Intact Stories (Cases, Success Stories)"
+
+#~ msgid "Story Infos"
+#~ msgstr "Story Infos"
+
+#~ msgid "Headline"
+#~ msgstr "Überschrift"
+
+#~ msgid "Text"
+#~ msgstr "Text"
+
+#~ msgid "Logo"
+#~ msgstr "Logo"
+
+#, php-format
+#~ msgid "Should be %s wide"
+#~ msgstr "Sollte %s breit sein"
+
+#~ msgid "Testimonials"
+#~ msgstr "Testimonials"
+
+#~ msgid "Testimonial"
+#~ msgstr "Testimonial"
+
+#~ msgid "Testimonials Archives"
+#~ msgstr "Testimonials Archive"
+
+#~ msgid "Testimonial Attributes"
+#~ msgstr "Testimonial Attribute"
+
+#~ msgid "All Testimonials"
+#~ msgstr "Alle Testimonials"
+
+#~ msgid "Add New Testimonial"
+#~ msgstr "Neues Testimonial hinzufügen"
+
+#~ msgid "New Testimonial"
+#~ msgstr "Neues Testimonial"
+
+#~ msgid "Edit Testimonial"
+#~ msgstr "Testimonial bearbeiten"
+
+#~ msgid "Update Testimonial"
+#~ msgstr "Testimonial aktualisieren"
+
+#~ msgid "View Testimonial"
+#~ msgstr "Testimonial ansehen"
+
+#~ msgid "View Testimonials"
+#~ msgstr "Testimonials ansehen"
+
+#~ msgid "Search Testimonial"
+#~ msgstr "Testimonial suchen"
+
+#~ msgid "Insert into Testimonial"
+#~ msgstr "In Testimonial einfügen"
+
+#~ msgid "Uploaded to this Testimonial"
+#~ msgstr "Zu Testimonial hochladen"
+
+#~ msgid "Testimonials list"
+#~ msgstr "Testimonials Liste"
+
+#~ msgid "Testimonials list navigation"
+#~ msgstr "Testimonials Liste Navigation"
+
+#~ msgid "Filter testimonials list"
+#~ msgstr "Testimonials Liste filtern"
+
+#~ msgid "Remove featured image"
+#~ msgstr "Bild entfernen"
+
+#~ msgid "Use as featured image"
+#~ msgstr "Als Bild nutzen"
