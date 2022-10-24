@@ -1,6 +1,6 @@
 {
   "name": "gaambo/wp-core-functionality-plugin",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "type": "wordpress-plugin",
   "license": "MIT",
   "description": "A must-use Plugin for your WordPress website projects to contain all site-specific functionality. This way it is theme independent and always enabled.",
@@ -22,11 +22,14 @@
     "issues": "https://github.com/gaambo/wp-core-functionality-plugin/issues"
   },
   "config": {
-    "preferred-install": "dist"
+    "preferred-install": "dist",
+    "allow-plugins": {
+      "composer/installers": true
+    }
   },
   "repositories": [],
   "require": {
-    "php": ">=7.3",
+    "php": ">=7.4",
     "composer/installers": "^1.6"
   },
   "require-dev": {
