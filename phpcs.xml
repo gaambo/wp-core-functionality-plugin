@@ -10,6 +10,7 @@
 
   <!-- Ignore Composer dependencies -->
   <exclude-pattern>vendor/</exclude-pattern>
+  <exclude-pattern>includes/tgm-plugin-activation.php</exclude-pattern>
 
 
 
